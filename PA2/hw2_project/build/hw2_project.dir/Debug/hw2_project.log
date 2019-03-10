@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Wayne\Desktop\CV\HW2\opencv\buildOpencv\install\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Wayne\Desktop\CV\HW2\opencv\buildOpencv\install\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Wayne\Desktop\CV\HW2\opencv\buildOpencv\install\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Wayne\Desktop\CV\HW2\opencv\buildOpencv\install\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Wayne\Desktop\CV\HW2\hw2_project\main.cpp(55): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\Wayne\Desktop\CV\HW2\hw2_project\main.cpp(56): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\Wayne\Desktop\CV\HW2\hw2_project\main.cpp(87): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Wayne\Desktop\CV\HW2\hw2_project\main.cpp(88): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Wayne\Desktop\CV\HW2\hw2_project\main.cpp(89): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Wayne\Desktop\CV\HW2\hw2_project\main.cpp(97): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Wayne\Desktop\CV\HW2\hw2_project\main.cpp(98): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Wayne\Desktop\CV\HW2\hw2_project\main.cpp(99): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw2_project.vcxproj -> C:\Users\Wayne\Desktop\CV\HW2\hw2_project\build\Debug\hw2_project.exe
+  hw2_project.vcxproj -> C:/Users/Wayne/Desktop/CV/HW2/hw2_project/build/Debug/hw2_project.pdb (Full PDB)

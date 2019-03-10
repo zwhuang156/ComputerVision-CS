@@ -1,0 +1,3 @@
+C:/Users/Wayne/Desktop/CV/HW1/test_cv/build/CMakeFiles/test_cv_vs_project.dir
+C:/Users/Wayne/Desktop/CV/HW1/test_cv/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Wayne/Desktop/CV/HW1/test_cv/build/CMakeFiles/ZERO_CHECK.dir

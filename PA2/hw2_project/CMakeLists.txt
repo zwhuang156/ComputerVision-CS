@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8.11)
+find_package(OpenCV REQUIRED)
+set(vs_solution_name "hw2_solution")
+set(vs_project_name "hw2_project")
+project(${vs_solution_name})
+add_executable(${vs_project_name} main.cpp)
+target_link_libraries(${vs_project_name} ${OpenCV_LIBS})

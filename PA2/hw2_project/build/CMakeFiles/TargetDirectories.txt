@@ -1,0 +1,3 @@
+C:/Users/Wayne/Desktop/CV/HW2/hw2_project/build/CMakeFiles/hw2_project.dir
+C:/Users/Wayne/Desktop/CV/HW2/hw2_project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Wayne/Desktop/CV/HW2/hw2_project/build/CMakeFiles/ZERO_CHECK.dir
